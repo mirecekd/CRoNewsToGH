@@ -2,11 +2,17 @@
 
 Until there exists official support from Google for Google Home in Czech republic this is little hack/script to stream hourly news (as Alexa/Echo users already have). 
 
+Works on 
+
 ## Prerequisities 
 
-For proper function you need to have properly configured some "chromecast" streaming 
+some linux machine (I am using oldschool RPI1 with raspbian)
 
-I am using [chromecast-cli](https://github.com/erkstruwe/chromecast-cli) 
+PHP server accessible from IFTTT servers
+
+Properly configured some "chromecast" streaming app (I am using [chromecast-cli](https://github.com/erkstruwe/chromecast-cli))
 
 ## IFTTT configuration
 
+## RSS from Czech radio - Zpravodajství (Radiožurnál)
+http://static.rozhlas.cz/news/radiozurnal/podcast.rss
