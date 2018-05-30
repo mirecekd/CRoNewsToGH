@@ -51,8 +51,6 @@ BODY
 
 ```secret=S3kretK3j&command={{TextField}}```
 
-#### Hey Google, RSS
-
 ## Podcast from Czech radio - Zpravodajství (Radiožurnál)
 http://static.rozhlas.cz/news/radiozurnal/podcast.rss
 
