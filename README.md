@@ -35,7 +35,7 @@ If this -> Google Assistant -> Say simple phrase
 What do you want to say? 
 
 ```
-RSS $
+RSS
 ```
 
 Than -> Make a web request
