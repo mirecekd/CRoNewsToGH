@@ -20,8 +20,9 @@ If this -> Google Assistant -> Say phrase with text ingredient
 
 What do you want to say? 
 
+
 ```
-RSS $
+CRo news $
 ```
 
 or
@@ -35,7 +36,7 @@ If this -> Google Assistant -> Say simple phrase
 What do you want to say? 
 
 ```
-RSS
+CRo news
 ```
 
 Than -> Make a web request
